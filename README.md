@@ -4,6 +4,8 @@ This project provides an interactive COVID-19 Dashboard created using Tableau, v
 
 ![COVID-19 Dashboard](Dashboard.png)
 
+### [View the Dashboard on Tableau Public](https://public.tableau.com/app/profile/ishan.srivastav4644/viz/Covid-19-Dashboard_17310662793620/Dashboard1?publish=yes)
+
 ## Overview
 
 The COVID-19 Dashboard visualizes:
