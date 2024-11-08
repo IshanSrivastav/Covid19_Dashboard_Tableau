@@ -4,7 +4,6 @@ This project provides an interactive COVID-19 Dashboard created using Tableau, v
 
 ![COVID-19 Dashboard](Dashboard.png)
 
-### [View the Dashboard on Tableau Public](https://public.tableau.com/app/profile/ishan.srivastav4644/viz/Covid-19-Dashboard_17310662793620/Dashboard1?publish=yes)
 
 ## Overview
 
@@ -39,7 +38,7 @@ The dashboard uses data from the provided file `COVID-19.csv` convert it to `COV
 
 2. **Open Tableau**:
    - Launch Tableau Desktop or Tableau Public.
-   - **Open Dashboard:** Access the project on [Tableau Public](https://public.tableau.com/shared/GGQ29DBF5?:display_count=n&:origin=viz_share_link) or use the local `.twbx` file.
+   - **Open Dashboard:** Access the project on [Tableau Public](https://public.tableau.com/app/profile/ishan.srivastav4644/viz/Covid-19-Dashboard_17310662793620/Dashboard1?publish=yes) or use the local `.twbx` file.
 
 3. **Import Data**:
    - Connect to the `COVID-19.csv` file within Tableau.
