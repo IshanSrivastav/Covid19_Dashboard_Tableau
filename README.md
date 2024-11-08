@@ -33,12 +33,13 @@ The dashboard uses data from the provided file `COVID-19.csv` convert it to `COV
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/covid19-dashboard.git
+    git clone https://github.com/IshanSrivastav/Covid19_Dashboard_Tableau.git
     cd covid19-dashboard
     ```
 
 2. **Open Tableau**:
    - Launch Tableau Desktop or Tableau Public.
+   - **Open Dashboard:** Access the project on [Tableau Public](https://public.tableau.com/shared/GGQ29DBF5?:display_count=n&:origin=viz_share_link) or use the local `.twbx` file.
 
 3. **Import Data**:
    - Connect to the `COVID-19.csv` file within Tableau.
@@ -60,4 +61,8 @@ Once setup, you can interact with the dashboard:
 - Use filters to view data for specific dates or case types.
 - Hover over map bubbles to view case counts by region.
 - Analyze trends and compare case growth between countries.
+
+# Contributing
+
+**Contributions are welcome! If you have ideas for enhancements or spot any issues, feel free to submit a pull request.**
 
