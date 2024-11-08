@@ -4,6 +4,29 @@ This project provides an interactive COVID-19 Dashboard created using Tableau, v
 
 ![COVID-19 Dashboard](Dashboard.png)
 
+## Understanding the Data - Project Covid
+
+The data used for this dashboard includes information on COVID-19 confirmed cases, deaths, and trends across different countries. The dataset (`COVID-19.csv`) provides a breakdown of case numbers over time, allowing for detailed analysis and visualization of how the pandemic has affected various regions.
+
+## Designing the Dashboard
+
+The dashboard is composed of the following visual elements:
+
+1. **Symbol Map Showing COVID-19 Cases Worldwide**:
+   - A map visualization where bubbles represent the number of cases in each country or region. Larger bubbles indicate higher case counts.
+
+2. **COVID-19 Case Trends with a Stacked Area Chart**:
+   - This chart shows the progression of COVID-19 cases over time. The stacked area chart provides a cumulative view of cases, allowing users to see how the case numbers have grown over the months.
+
+3. **Top-10 COVID-19 Affected Countries and Their Trends**:
+   - A bar chart displaying the top-10 countries with the highest confirmed cases, helping users identify the most affected regions. Additionally, individual trend lines for these countries are shown to understand their case growth over time.
+
+4. **Confirmed Cases and Death Cases Pie Chart**:
+   - A pie chart that provides a quick summary of the distribution between confirmed cases and death cases. This chart offers a straightforward way to understand the proportion of outcomes.
+
+## Preparing the Final Dashboard - Project Covid
+
+After creating the individual sheets, the final step is to integrate all visuals into a cohesive dashboard in Tableau. The design includes interactive filters for case type (confirmed or deaths) and a date selector, allowing users to customize their view of the data. The final dashboard layout is organized to provide a comprehensive yet accessible overview of the COVID-19 situation globally.
 
 ## Overview
 
